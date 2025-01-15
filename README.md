@@ -93,6 +93,10 @@ Name the file example.txt.
 
 (Optional) Add initial content to the file.
 
+**OUTPUT**
+
+![OUTPUT](https://github.com/user-attachments/assets/456ffa9e-8371-4a32-b265-998e9a0fa612)
+
 Update the filePath in the code if necessary to match the location of example.txt.
 
 Run the program:
