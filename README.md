@@ -83,8 +83,6 @@ Name the class FileHandlingUtility.
 
 Check the option to include public static void main(String[] args).
 
-Copy and paste the provided code into the class.
-
 Create a text file:
 
 Right-click on the project > New > File.
